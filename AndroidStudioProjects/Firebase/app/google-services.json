@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "836556093529",
+    "firebase_url": "https://arash-31b52.firebaseio.com",
+    "project_id": "arash-31b52",
+    "storage_bucket": "arash-31b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836556093529:android:9fdc5fa1eb920476",
+        "android_client_info": {
+          "package_name": "info.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836556093529-0hf17sauu62553oel487iapdfebfsu1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MByn0qCmcEutU1Mw40YJKwzQ6PwSSnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836556093529:android:51be5f95e254b02e",
+        "android_client_info": {
+          "package_name": "com.example.virgol_arash.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836556093529-0hf17sauu62553oel487iapdfebfsu1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0MByn0qCmcEutU1Mw40YJKwzQ6PwSSnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
